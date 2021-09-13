@@ -8,6 +8,4 @@ El juego está dividido por las siguientes categorías:
 •	quinto: acertijos de instrumentos musicales
 Disfruten mucho este juego. 
 
-
-yeidyalzate122@gmail.com
-Lola122004
+Para iniciar el juego debes de ir a la carpeta principal llamada "Preguntas y respuestas", y ahi esta el metodo principal para iniciarlo
